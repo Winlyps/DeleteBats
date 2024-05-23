@@ -1,0 +1,4 @@
+name: DeleteBats
+version: '1.0-SNAPSHOT'
+main: org.example.inventorychecker.deletebats.DeleteBats
+api-version: '1.20'

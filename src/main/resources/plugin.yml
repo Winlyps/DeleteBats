@@ -1,0 +1,4 @@
+name: DeleteBats
+version: '${project.version}'
+main: org.example.inventorychecker.deletebats.DeleteBats
+api-version: '1.20'
