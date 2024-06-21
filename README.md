@@ -6,4 +6,3 @@ With lightning-fast efficiency, DeleteBats eliminates all existing on startup an
 With its optimized performance, you can enjoy a seamless, lag-free experience in all your worlds.
 Say goodbye to bat-induced frustration and hello to a bat-free Minecraft utopia!
 
-# License: https://creativecommons.org/licenses/by-nc/4.0/
